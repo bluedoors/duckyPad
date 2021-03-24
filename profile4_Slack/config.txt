@@ -1,0 +1,12 @@
+z1 status
+z2 jumpTo
+z3 DMs
+z4 channel
+z6 mention
+z8 saved
+z11 chime
+z13 sidebar
+z14 unread
+z15 threads
+BG_COLOR 84 22 180
+SWCOLOR_11 0 138 163

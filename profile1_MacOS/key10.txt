@@ -1,0 +1,4 @@
+COMMAND SPACE
+DELAY 300
+STRING activity monitor
+ENTER

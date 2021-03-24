@@ -1,0 +1,4 @@
+STRING /chime
+ENTER
+DELAY 100
+ENTER
